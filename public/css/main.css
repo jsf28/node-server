@@ -208,4 +208,30 @@ body{
   border-radius: 10px;
   width: 1063px;
 }
-/*Empieza basesdatos.html*/
+/*Empieza contacto.html*/
+/*Empieza contact-form*/
+.contact-form{
+  margin-top: 80px;
+  width: 500px;
+  float: left;
+}
+/*Empieza info-form*/
+.info-form{
+  margin-bottom: 30px;
+  margin-left: 20px;
+  width: 150px;
+}
+#mycomments{
+  padding-bottom: 100px;
+}
+#myname, #myemail, #myphone, #mycomments{
+  margin-bottom: 10px;
+}
+/*Empieza contact-image*/
+.contact-image img{
+  border-radius: 40px;
+  margin-top: 110px;
+  height: 450px;
+  width: 600px;
+  float: left;
+}
